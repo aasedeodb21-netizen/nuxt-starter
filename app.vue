@@ -6,7 +6,7 @@ useHead({
     {
       name: "description",
       content:
-        "Nuxt Starter is a minimal template created for quick landing pages, built with Nuxt and Tailwind CSS.",
+        "Get Your Authentic and Accurate Data from AASEDEO EMIS.",
     },
   ],
   bodyAttrs: {
