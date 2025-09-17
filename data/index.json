@@ -2,7 +2,6 @@
   "hero": {
     "title": "AASE-EMIS",
     "description": "Get Your Authentic and Accurate Data from AASEDEO EMIS.",
-    "image": "",
     "imageAlt": "Nuxt logo and title on abstract background",
     "buttons": [
       {
