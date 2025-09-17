@@ -2,11 +2,11 @@
 const menuitems = [
   {
     title: "Sign up",
-    url: "https://app.netlify.com/signup",
+    url: "",
   },
   {
     title: "Log in",
-    url: "https://app.netlify.com/login",
+    url: "",
   },
 ];
 </script>
