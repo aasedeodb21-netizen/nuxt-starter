@@ -12,27 +12,27 @@
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
+    "title": "",
     "icons": [
       {
-        "name": "i-simple-icons-gitlab"
+        "name": ""
       },
       {
-        "name": "i-simple-icons-github"
+        "name": ""
       },
       {
-        "name": "i-simple-icons-openai"
+        "name": ""
       },
       {
-        "name": "i-simple-icons-google"
+        "name": ""
       },
       {
-        "name": "i-simple-icons-netlify"
+        "name": ""
       }
     ]
   },
   "features": {
-    "title": "Why choose Nuxt.js?",
+    "title": "",
     "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
     "items": [
       {
