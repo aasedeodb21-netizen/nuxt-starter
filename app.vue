@@ -1,7 +1,7 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "AASE-EMIS Dashboard",
   meta: [
     {
       name: "description",
